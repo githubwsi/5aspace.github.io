@@ -58,7 +58,7 @@ h2,h4,h5,h6 {
 p {
     font-size: 17px;
     line-height: 1.7;
-    margin-bottom: 20px;
+    margin-bottom: 0px;
 	
 }
 
@@ -74,6 +74,11 @@ p {
 .icon-md {
     font-size: 25px;
     line-height: 9px;
+}
+
+.icon-md1 {
+    font-size: 18px;
+    line-height: 4px;	
 }
 
 .icon-sm {
@@ -288,6 +293,26 @@ header .header-content .inner h1 {
 
 header .header-content .inner p {
     margin-bottom: 50px;
+    font-size: 16px;
+    font-weight: 300;
+    color: rgba(255,255,255,0.7);
+}
+
+header .siteheader-content {
+    position: relative;
+    width: 100%;
+    padding: 0px 15px;
+    text-align: center;
+    z-index: 2;
+}
+
+header .siteheader-content .siteinner h1 {
+    margin-top: 0;
+    margin-bottom: 50px;
+}
+
+header .siteheader-content .siteinner p {
+    margin-bottom: 0px;
     font-size: 16px;
     font-weight: 300;
     color: rgba(255,255,255,0.7);
