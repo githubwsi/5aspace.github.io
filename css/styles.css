@@ -151,7 +151,7 @@ footer {
     font-family: 'Questrial','Helvetica Neue',Arial,sans-serif;
 	border-color: transparent;
 	text-transform: uppercase;
-    font-size: 15px;
+    font-size: 14px;
     font-weight: 700;
     color: #fff;
     padding: 15px;
@@ -177,7 +177,7 @@ footer {
 .navbar-default .nav > li>a,
 .navbar-default .nav>li>a:focus {
     text-transform: uppercase;
-    font-size: 15px;
+    font-size: 14px;
     font-weight: 700;
     color: #fff;
 }
